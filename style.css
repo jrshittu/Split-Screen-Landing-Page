@@ -122,6 +122,6 @@ h1{
     width: var(--small-width);
 }
 
-.hover-left .left::before{
+.hover-right .left::before{
     z-index: 2;
 }
